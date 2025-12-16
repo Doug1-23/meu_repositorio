@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2b4abdac-577d-407b-8685-ccbe7193556f" name="Changes" comment="Meu &quot;Olá, mundo!&quot;" />
+    <list default="true" id="2b4abdac-577d-407b-8685-ccbe7193556f" name="Changes" comment="testando login">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,21 +22,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Doug1-23"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Doug1-23&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Doug1-23/meu_repositorio",
-    "accountId": "30aabf27-1e9b-44fc-a22b-14b4af34e10b"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Doug1-23/meu_repositorio&quot;,
+    &quot;accountId&quot;: &quot;30aabf27-1e9b-44fc-a22b-14b4af34e10b&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="36u46gHzDgct8tjE3Dcs1e2iBe1" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -46,7 +48,8 @@
     "Python.Teste.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -88,11 +91,29 @@
       <option name="project" value="LOCAL" />
       <updated>1765843726011</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Alterei a primeira linha e adicionei mais linhas">
+      <option name="closed" value="true" />
+      <created>1765844257599</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1765844257599</updated>
+    </task>
+    <task id="LOCAL-00005" summary="testando login">
+      <option name="closed" value="true" />
+      <created>1765844518384</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1765844518384</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Meu &quot;Olá, mundo!&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Meu &quot;Olá, mundo!&quot;" />
+    <MESSAGE value="Alterei a primeira linha e adicionei mais linhas" />
+    <MESSAGE value="testando login" />
+    <option name="LAST_COMMIT_MESSAGE" value="testando login" />
   </component>
 </project>
